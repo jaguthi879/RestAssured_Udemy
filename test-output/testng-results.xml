@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T22:42:00 IST" name="Default suite" finished-at="2023-03-13T22:42:04 IST" duration-ms="3554">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T22:42:00 IST" name="Default test" finished-at="2023-03-13T22:42:04 IST" duration-ms="3554">
+      <class name="RestAssured_LibraryApi.Dynamic_json">
+        <test-method signature="getmethod()[pri:0, instance:RestAssured_LibraryApi.Dynamic_json@4e096385]" started-at="2023-03-13T22:42:00 IST" name="getmethod" finished-at="2023-03-13T22:42:02 IST" duration-ms="1866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getmethod -->
+        <test-method signature="postmethod(java.lang.String,java.lang.String)[pri:0, instance:RestAssured_LibraryApi.Dynamic_json@4e096385]" started-at="2023-03-13T22:42:02 IST" name="postmethod" data-provider="Booksdata" finished-at="2023-03-13T22:42:03 IST" duration-ms="987" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zxcb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2380]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmethod -->
+        <test-method signature="postmethod(java.lang.String,java.lang.String)[pri:0, instance:RestAssured_LibraryApi.Dynamic_json@4e096385]" started-at="2023-03-13T22:42:03 IST" name="postmethod" data-provider="Booksdata" finished-at="2023-03-13T22:42:03 IST" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[poii]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7695]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmethod -->
+        <test-method signature="postmethod(java.lang.String,java.lang.String)[pri:0, instance:RestAssured_LibraryApi.Dynamic_json@4e096385]" started-at="2023-03-13T22:42:03 IST" name="postmethod" data-provider="Booksdata" finished-at="2023-03-13T22:42:04 IST" duration-ms="377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lkooh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmethod -->
+      </class> <!-- RestAssured_LibraryApi.Dynamic_json -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
